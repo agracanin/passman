@@ -5,3 +5,4 @@ __pycache__/
 *.ppmx.tmp
 .DS_Store
 Thumbs.db
+LICENSE
